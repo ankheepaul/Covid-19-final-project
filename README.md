@@ -4,11 +4,11 @@ to infer a relationship between the total number of Covid-19 cases in a country 
 
 
 John Hopkins Covid-19 Data: The data was obtained from the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). 
-A clean version of the data has been obtained from Kaggle. To access the data used click on the following [link]( https://www.kaggle.com/imdevskp/corona- virus-report/discussionhttps://www.kaggle.com/imdevskp/corona-virus- report/discussion)
+A clean version of the data has been obtained from Kaggle. To access the data used click on the following [link](https://www.kaggle.com/imdevskp/corona-virus-report/discussionhttps://www.kaggle.com/imdevskp/corona-virus- report/discussion)
 
 World Health Organization data: The merged datasets have been obtained from the World Health Organization's Global Health Observatory.
 The following links give access to the datasets:
-[Risk scores](https://apps.who.int/gho/data/node.main.SDG3D?lang=en)
+[Risk scores](https://apps.who.int/gho/data/node.main.SDG3D?lang=en),
 [Sanitation level](https://apps.who.int/gho/data/node.main.WSHSANITATION?lang=en)
 
 Wikipedia data: HTML based web-scraping was used to obtain data from the following Wikipedia [page](https://en.wikipedia.org/wiki/List_of_cities_by_average_temperature).
